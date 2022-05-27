@@ -1,0 +1,24 @@
+*  { box-sizing: border-box
+   ; padding: 0
+   ; margin: 0
+   }
+
+body
+   { font-family: "Red Hat Mono", monospace
+   ; font-size: 36px
+   ; line-height: 1.618
+   /* - - - - - - - - - */
+   ; padding: 63px 90px
+   }
+
+hr { margin: 27px 0 }
+
+.fw-normal
+   { font-weight: normal }
+.fw-bold
+   { font-weight: bold }
+
+.fs-normal
+   { font-style: normal }
+.fs-italic
+   { font-style: italic }
